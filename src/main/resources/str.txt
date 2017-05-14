@@ -1,0 +1,66 @@
+user.form.username=Username
+user.form.password=Password
+user.form.firstname=First name
+user.form.lastname=Last name
+user.form.email=Email
+user.form.weight=Weight
+user.form.height=Height
+user.form.birthyear=Birthyear
+user.form.submit=Submit
+user.form.login=Login
+
+header.home=Home
+header.account=My account
+
+user.existUsername=This login is not available
+user.existEmail=This email is not available
+
+common.signup=Sign up
+common.register=Registration
+common.cancel=Cancel
+common.logout=Logout
+common.login=Login
+common.search=Search for...
+common.searchButton=Search
+
+reg.confirm=Registration Confirmation
+reg.go.url=Please, to confirm your account go to
+
+login.not-enabled=Please, activate your account
+user.form.register=Register
+profile.main_info=Main info
+
+
+
+
+user.form.username=\u041D\u0438\u043A\u043D\u0435\u0439\u043C
+user.form.password=\u041F\u0430\u0440\u043E\u043B\u044C
+user.form.firstname=\u0418\u043C\u044F
+user.form.lastname=\u0424\u0430\u043C\u0438\u043B\u0438\u044F
+user.form.email=\u041F\u043E\u0447\u0442\u043E\u0432\u044B\u0439 \u0430\u0434\u0440\u0435\u0441
+user.form.weight=\u0412\u0435\u0441
+user.form.height=\u0420\u043E\u0441\u0442
+user.form.birthyear=\u0414\u0435\u043D\u044C \u0440\u043E\u0436\u0434\u0435\u043D\u0438\u044F
+user.form.submit=\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F
+user.form.login=\u0412\u0445\u043E\u0434
+
+header.home=\u0414\u043E\u043C\u043E\u0439
+header.account=\u041F\u0440\u043E\u0444\u0438\u043B\u044C
+
+user.existUsername=\u042D\u0442\u043E\u0442 \u043D\u0438\u043A\u043D\u0435\u0439\u043C \u0437\u0430\u043D\u044F\u0442
+user.existEmail=\u042D\u0442\u043E\u0442 \u043F\u043E\u0447\u0442\u043E\u0432\u044B\u0439 \u0430\u0434\u0440\u0435\u0441\u0441 \u0437\u0430\u043D\u044F\u0442
+
+common.signup=\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043E\u0432\u0430\u0442\u044C\u0441\u044F
+common.register=\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F
+common.cancel=\u041E\u0442\u043C\u0435\u043D\u0430
+common.logout=\u0412\u044B\u0439\u0442\u0438
+common.login=\u0412\u0445\u043E\u0434
+common.search=\u041F\u043E\u0438\u0441\u043A...
+common.searchButton=\u041D\u0430\u0439\u0442\u0438
+
+reg.confirm=\u041F\u043E\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043D\u0438\u0435 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438
+reg.go.url=\u041F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430, \u0434\u043B\u044F \u043F\u043E\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043D\u0438\u044F \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u043F\u0435\u0440\u0435\u0439\u0434\u0438\u0442\u0435 \u043F\u043E \u0441\u0441\u044B\u043B\u043A\u0435
+
+login.not-enabled=\u041F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430, \u0430\u043A\u0442\u0438\u0432\u0438\u0440\u0443\u0439\u0442\u0435 \u0432\u0430\u0448 \u0430\u043A\u043A\u0430\u0443\u043D\u0442
+user.form.register=Ru_Register
+profile.main_info=Ru Main info
