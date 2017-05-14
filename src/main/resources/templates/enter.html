@@ -128,14 +128,14 @@
                                 <p>№</p>
                             </td>
                             <td th:each="item:${array}">
-                                <p style="align-items: center;" th:text="${item}"></p>
+                                <p style="align-items: center;" th:text="#{enter.point}+${item}"></p>
                             </td>
                         </tr>
                         </thead>
                         <tbody>
-                        <tr th:each="item:${solution.adj}">
+                        <tr th:each="item:${array}">
                             <td>
-                                <p style="align-items: center;" th:text="P"></p>
+                                <p style="align-items: center;" th:text="#{enter.point}+${item}"></p>
                             </td>
                             <td th:each="adj:${solution.adj}">
                                 <input type="number" class="form-control input-md" name="test[]" style="align-content: center"
